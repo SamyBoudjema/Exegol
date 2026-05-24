@@ -1,0 +1,11 @@
+https://www.digitemis.com/audit-dacl-active-directory/
+
+https://www.ibm.com/fr-fr/think/topics/kerberoasting#:~:text=Le%20Kerberoasting%20est%20une%20cyberattaque,des%20comptes%20de%20service%20r%C3%A9seau
+
+https://www.thehacker.recipes/ad/movement/kerberos/asreproast
+
+https://beta.hackndo.com/bloodhound/ 
+
+https://medium.com/@hexshubz/active-directory-pentesting-commands-200-commands-ecbee1292d1c
+
+https://starlox.medium.com/active-directory-pentest-enterprise-7d4721849b87
