@@ -148,6 +148,17 @@ nxc ldap "$DC_IP" -u "$USER" -p "$PASS" --users 2>&1 | tee attempt20_ldap_users.
 grep -oP '^[A-Za-z0-9._-]+' attempt20_ldap_users.txt | sort -u > users.txt
 ```
 
+### 3.3 Vérifier les connexions aux machines avec les comptes récupéré
+```bash
+evil-winrm -i <ip-machine> -u <user> -p <password>
+```
+
+dans le cas de rdp accepté
+
+```bash
+xfreerdp -u:utilisateur -p:mdp -d:domain -v:server
+```
+
 ---
 
 ## Phase 4 — BloodHound (CLI, sans GUI)
