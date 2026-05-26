@@ -439,3 +439,13 @@ GET-DESC... 10.13.37.42     389    DC-CELESTINA     User: d.scrip description: O
 GET-DESC... 10.13.37.42     389    DC-CELESTINA     User: k.cedepte description: R3m0t3Pr1v1l3g35@H4nd! [cite: 114]
 
 ```
+
+
+CCHDFLM{WH47_3LS3_4m_1_R173_m473}
+CCHDFLM{M0RE_c0ffEe_R045T_1n_mY_REp}
+CCHDFLM{0H_n035_Y0U_F0uNd_my_LS4_S3cR3t}
+CCHDFLM{cp4zzw0rd_15_N07_5ECURe_d4MN_Y0U_m1CR050f7}
+
+PEUT ETRE 
+CCHDFLM{0H_n035_Y0U_F0uNd_my_LS4_S3cR3t}
+CCHDFLM{P07a70E5_90D}
