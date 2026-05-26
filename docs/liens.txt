@@ -11,3 +11,5 @@ https://medium.com/@hexshubz/active-directory-pentesting-commands-200-commands-e
 https://starlox.medium.com/active-directory-pentest-enterprise-7d4721849b87
 
 https://share.jotbird.com/clever-serene-mesa-willow
+
+https://github.com/throwAway789654123/AD-Kerberos/blob/main/attacktive_directory_recap.md
