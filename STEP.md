@@ -1,4 +1,4 @@
-# Marche à suivre — Examen Celestina AD
+# Marche à suivre
 
 Guide décisionnel : chaque commande est suivie de **« si vous voyez X → faites Y »**. Utilisable sans Claude.
 
