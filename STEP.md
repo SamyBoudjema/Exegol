@@ -529,7 +529,7 @@ bloodhound-python -u "$USER" -p "$PASS" -d "$DOMAIN" -ns "$DC_IP" -c All 2>&1 | 
 Compléter `reference/creds-chain-template.md` au fur et à mesure.
 
 ### 10.3 Cocher la checklist
-`EXAM-CHECKLIST.md` — cocher chaque flag obtenu.
+`CHECKLIST.md` — cocher chaque flag obtenu.
 
 ### 10.4 Rendre le rapport final
 Sections : synthèse, périmètre, méthodologie, findings (un par flag), chaîne de compromission, recommandations, annexes (`attempt*.txt`).

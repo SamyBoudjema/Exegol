@@ -1,12 +1,9 @@
-# Guide d'examen — Active Directory Celestina (Exegol CLI)
-
-Repo de révision pour l'examen de cybersécurité forensic / pentest AD. **Internet autorisé** le jour J ; ce dépôt sert de mémoire externe (commandes, runbooks, journal de rapport).
+# Exegol
 
 ## Jour J — par où commencer
 
 1. **[playbooks/RUNBOOK-CHRONOLOGIQUE.md](playbooks/RUNBOOK-CHRONOLOGIQUE.md)** — fil principal : toutes les étapes dans l'ordre, commandes complètes
-2. **[exam-journal/JOURNAL_EXAMEN.md](exam-journal/JOURNAL_EXAMEN.md)** — noter chaque action (base du rapport final)
-3. **[EXAM-CHECKLIST.md](EXAM-CHECKLIST.md)** — cocher les 14 challenges / flags
+2. **[CHECKLIST.md](CHECKLIST.md)** — cocher les 14 challenges / flags
 
 ## Si tu es bloqué
 

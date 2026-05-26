@@ -1,4 +1,4 @@
-# Documentation — revision_cyber
+# Documentation
 
 ## Guides opérationnels (examen)
 
@@ -6,7 +6,7 @@
 |----------|---------|
 | ★ | [../playbooks/RUNBOOK-CHRONOLOGIQUE.md](../playbooks/RUNBOOK-CHRONOLOGIQUE.md) |
 | ★ | [../exam-journal/JOURNAL_EXAMEN.md](../exam-journal/JOURNAL_EXAMEN.md) |
-| | [../EXAM-CHECKLIST.md](../EXAM-CHECKLIST.md) |
+| | [../CHECKLIST.md](../CHECKLIST.md) |
 
 ## Références TP / camarade
 

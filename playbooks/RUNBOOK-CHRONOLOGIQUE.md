@@ -1,4 +1,4 @@
-# Runbook chronologique — Examen Celestina AD
+# Runbook chronologique
 
 **Document principal le jour J.** Exécuter les étapes dans l'ordre.  
 Playbooks détaillés : `00-setup` … `09-pivot` | Journal : [exam-journal/JOURNAL_EXAMEN.md](../exam-journal/JOURNAL_EXAMEN.md)
@@ -226,7 +226,7 @@ nxc smb 10.37.13.0/24 -u 'k.cedepte' -p 'R3m0t3Pr1v1l3g35@H4nd!' --continue-on-s
 
 ### Étape 27 — Soumettre flags & compléter journal
 
-Ouvrir [EXAM-CHECKLIST.md](../EXAM-CHECKLIST.md) et [exam-journal/JOURNAL_EXAMEN.md](../exam-journal/JOURNAL_EXAMEN.md).
+Ouvrir [CHECKLIST.md](../CHECKLIST.md) et [exam-journal/JOURNAL_EXAMEN.md](../exam-journal/JOURNAL_EXAMEN.md).
 
 ---
 
